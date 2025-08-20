@@ -4,7 +4,7 @@
   "description": "🌌 Velora brings a clean and aesthetic dark theme for elegant coding.",
   "publisher": "etherealslash",
   "version": "0.1.0",
-  "icon": "velora-dark-logo.png",
+  "icon": "./images/velora-dark-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/euandresimoes/velora-theme"
