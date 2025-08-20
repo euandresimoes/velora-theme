@@ -39,5 +39,5 @@ or submit a pull request to improve **Velora**.
 
 ## 📜 License
 
-Released under the **MIT License**.  
+[**MIT License**](https://github.com/euandresimoes/velora-theme/blob/main/LICENSE).  
 Designed with 💜 for developers who love the night.
