@@ -1,0 +1,40 @@
+{
+  "name": "velora-dark",
+  "displayName": "Velora Dark",
+  "description": "🌌 Velora brings a clean and aesthetic dark theme for elegant coding.",
+  "publisher": "etherealslash",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euandresimoes/velora-theme"
+  },
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Velora Dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "Velora",
+    "velora",
+    "dark",
+    "theme",
+    "modern",
+    "minimal",
+    "elegant",
+    "dark theme",
+    "neon",
+    "flat",
+    "clean",
+    "aesthetic"
+  ]
+}
