@@ -19,7 +19,7 @@
 Velora is a clean and aesthetic dark theme for Visual Studio Code, designed for a calm and focused coding experience. Minimal, modern, and built for developers who love a chill workflow.
 </h4>
 
-## 🎨 Screenshots
+## 🎨 Preview
 
 ![Editor Preview 1](./images/velora-dark-preview-1.png)
 ![Editor Preview 2](./images/velora-dark-preview-2.png)
